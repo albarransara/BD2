@@ -1,0 +1,1830 @@
+state_province,especie
+Illes Balears,Fulica atra
+Tarragona,Buteo buteo
+Illes Balears,Chroicocephalus ridibundus
+Barcelona,Streptopelia decaocto
+A Corua,Motacilla cinerea
+Lleida,Galerida cristata
+A Corua,Fringilla coelebs
+Ourense,Turdus merula
+Murcia,Parus major
+Girona,Pica pica
+Ciudad Real,Sturnus
+Girona,Corvus corone
+Barcelona,Apus apus
+Girona,Carduelis carduelis
+A Corua,Saxicola rubicola
+Girona,Phoenicurus ochruros
+Tarragona,Sturnus
+A Corua,Pica pica
+A Corua,Passer domesticus
+Las Palmas,Streptopelia decaocto
+Girona,Chroicocephalus ridibundus
+Zamora,Falco tinnunculus
+Palencia,Turdus merula
+Girona,Passer domesticus
+Girona,Delichon urbicum
+Len,Milvus migrans
+A Corua,Anas platyrhynchos
+A Corua,Troglodytes troglodytes
+Girona,Hirundo rustica
+A Corua,Columba palumbus
+A Corua,Phoenicurus ochruros
+Ourense,Pica pica
+Barcelona,Carduelis carduelis
+Illes Balears,Gallinula chloropus
+Alacant/Alicante,Sturnus
+A Corua,Alcedo atthis
+Girona,Emberiza cirlus
+Barcelona,Pica pica
+A Corua,Corvus corone
+A Corua,Periparus ater
+Girona,Motacilla alba
+Murcia,Columba livia
+A Corua,Buteo buteo
+Alacant/Alicante,Upupa epops
+Girona,Dendrocopos major
+Barcelona,Bubulcus ibis
+Barcelona,Columba palumbus
+A Corua,Phylloscopus collybita
+Barcelona,Serinus serinus
+Zamora,Hirundo rustica
+Girona,Parus major
+Len,Anas platyrhynchos
+Las Palmas,Delichon urbicum
+A Corua,Parus major
+Girona,Fringilla coelebs
+A Corua,Erithacus rubecula
+Alacant/Alicante,Anas platyrhynchos
+A Corua,Turdus merula
+Tarragona,Columba palumbus
+Zamora,Sylvia atricapilla
+Barcelona,Parus major
+Ciudad Real,Gallinula chloropus
+Zaragoza,Acrocephalus arundinaceus
+Alacant/Alicante,Columba palumbus
+A Corua,Aegithalos caudatus
+A Corua,Motacilla alba
+Tarragona,Delichon urbicum
+Barcelona,Columba livia
+Barcelona,Passer domesticus
+Barcelona,Motacilla alba
+Barcelona,Delichon urbicum
+A Corua,Turdus philomelos
+A Corua,Certhia brachydactyla
+A Corua,Apus apus
+Alacant/Alicante,Motacilla alba
+Alacant/Alicante,Turdus merula
+Barcelona,Corvus corone
+Barcelona,Hirundo rustica
+Albacete,Apus apus
+Barcelona,Erithacus rubecula
+Girona,Anas platyrhynchos
+A Corua,Ardea cinerea
+Len,Corvus frugilegus
+Albacete,Turdus merula
+A Corua,Garrulus glandarius
+Girona,Sturnus
+A Corua,Carduelis carduelis
+Zamora,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Barcelona,Chroicocephalus ridibundus
+Alacant/Alicante,Hirundo rustica
+Ourense,Serinus serinus
+Las Palmas,Motacilla cinerea
+Illes Balears,Anas platyrhynchos
+Len,Serinus serinus
+Albacete,Streptopelia decaocto
+Tarragona,Hirundo rustica
+A Corua,Sylvia atricapilla
+Zamora,Cettia cetti
+Girona,Cyanistes caeruleus
+Barcelona,Luscinia megarhynchos
+A Corua,Sylvia borin
+Len,Passer domesticus
+Girona,Sitta europaea
+Ciudad Real,Turdus merula
+Valncia/Valencia,Turdus merula
+Palencia,Motacilla alba
+Ciudad Real,Columba palumbus
+Alacant/Alicante,Streptopelia decaocto
+Tarragona,Fringilla coelebs
+Girona,Falco tinnunculus
+A Corua,Regulus ignicapilla
+Girona,Phylloscopus collybita
+Alacant/Alicante,Himantopus himantopus
+Girona,Columba palumbus
+Palencia,Pica pica
+A Corua,Chroicocephalus ridibundus
+Barcelona,Gallinula chloropus
+Las Palmas,Larus michahellis
+Pontevedra,Picus viridis
+Zamora,Ciconia ciconia
+Barcelona,Buteo buteo
+Palencia,Egretta garzetta
+Murcia,Chroicocephalus ridibundus
+Madrid,Pica pica
+Alacant/Alicante,Pica pica
+Tarragona,Carduelis carduelis
+Alacant/Alicante,Passer domesticus
+Girona,Erithacus rubecula
+Len,Ciconia ciconia
+Pontevedra,Anthus pratensis
+Tarragona,Turdus viscivorus
+Len,Falco tinnunculus
+Murcia,Anas platyrhynchos
+Alacant/Alicante,Carduelis carduelis
+Girona,Sylvia melanocephala
+Murcia,Oxyura leucocephala
+Ciudad Real,Passer domesticus
+Madrid,Erithacus rubecula
+Palencia,Passer domesticus
+Barcelona,Anas platyrhynchos
+Girona,Saxicola rubicola
+Girona,Motacilla cinerea
+Zamora,Cyanistes caeruleus
+Zaragoza,Pica pica
+Araba/lava,Parus major
+Palencia,Columba palumbus
+Madrid,Parus major
+Barcelona,Actitis hypoleucos
+Albacete,Sturnus
+Len,Milvus milvus
+Barcelona,Turdus merula
+Girona,Serinus serinus
+Barcelona,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Las Palmas,Motacilla alba
+Las Palmas,Serinus canaria
+Zaragoza,Fulica atra
+Ciudad Real,Cyanistes caeruleus
+Girona,Turdus philomelos
+Palencia,Parus major
+Palencia,Picus viridis
+Barcelona,Phalacrocorax carbo
+Segovia,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Valncia/Valencia,Ardea cinerea
+Tarragona,Motacilla alba
+Las Palmas,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Girona,Garrulus glandarius
+A Corua,Serinus serinus
+Barcelona,Upupa epops
+Len,Motacilla alba
+Tarragona,Phalacrocorax carbo
+Segovia,Petronia petronia
+Len,Turdus merula
+Zamora,Turdus merula
+Las Palmas,Upupa epops
+Las Palmas,Estrilda astrild
+Girona,Anthus spinoletta
+Alacant/Alicante,Egretta garzetta
+Las Palmas,Falco tinnunculus
+Araba/lava,Cyanistes caeruleus
+Ciudad Real,Anas platyrhynchos
+Barcelona,Motacilla cinerea
+Barcelona,Sylvia melanocephala
+Len,Delichon urbicum
+Palencia,Dendrocopos major
+Girona,Turdus merula
+Palencia,Anas platyrhynchos
+Albacete,Passer domesticus
+Bizkaia,Turdus philomelos
+Las Palmas,Columba livia
+Albacete,Serinus serinus
+Tarragona,Serinus serinus
+A Corua,Ptyonoprogne rupestris
+Tarragona,Turdus merula
+Zamora,Milvus milvus
+Zamora,Motacilla alba
+Murcia,Motacilla alba
+Murcia,Upupa epops
+Albacete,Columba palumbus
+Murcia,Turdus merula
+Madrid,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Alacant/Alicante,Serinus serinus
+Tarragona,Passer domesticus
+Las Palmas,Phylloscopus canariensis
+Las Palmas,Anthus berthelotii
+Illes Balears,Apus apus
+Zamora,Anthus pratensis
+Barcelona,Phasianus colchicus
+Zamora,Sturnus
+Valncia/Valencia,Passer domesticus
+Tarragona,Luscinia megarhynchos
+Ciudad Real,Streptopelia turtur
+Girona,Periparus ater
+Girona,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Murcia,Passer domesticus
+Las Palmas,Apus unicolor
+Murcia,Muscicapa striata
+Las Palmas,Carduelis carduelis
+Girona,Aegithalos caudatus
+Tarragona,Apus apus
+Albacete,Turdus viscivorus
+Girona,Buteo buteo
+Zamora,Cisticola juncidis
+A Corua,Sturnus
+A Corua,Hirundo rustica
+A Corua,Picus viridis
+Zamora,Columba livia
+Girona,Larus michahellis
+Valncia/Valencia,Chroicocephalus ridibundus
+Las Palmas,Turdus merula
+Len,Hirundo rustica
+Zamora,Emberiza cirlus
+Barcelona,Estrilda astrild
+Barcelona,Myiopsitta monachus
+Murcia,Podiceps nigricollis
+Len,Pica pica
+A Corua,Delichon urbicum
+Murcia,Ardea cinerea
+Ourense,Motacilla alba
+Ciudad Real,Lanius meridionalis
+Len,Ardea cinerea
+Asturias,Hirundo rustica
+Asturias,Carduelis carduelis
+Asturias,Falco peregrinus
+Ourense,Erithacus rubecula
+Illes Balears,Hirundo rustica
+Barcelona,Ardea cinerea
+Las Palmas,Ardea cinerea
+Ciudad Real,Passer hispaniolensis
+Murcia,Sturnus
+A Corua,Falco peregrinus
+Valncia/Valencia,Parus major
+Segovia,Falco tinnunculus
+Murcia,Serinus serinus
+Lleida,Gallinula chloropus
+Tarragona,Streptopelia decaocto
+Barcelona,Oriolus oriolus
+Girona,Bubulcus ibis
+A Corua,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Alacant/Alicante,Luscinia megarhynchos
+Palencia,Hirundo rustica
+Girona,Ardea cinerea
+Alacant/Alicante,Falco tinnunculus
+Len,Streptopelia decaocto
+Zamora,Fringilla coelebs
+Ciudad Real,Pica pica
+Girona,Gallinula chloropus
+Las Palmas,Passer hispaniolensis
+Zamora,Passer domesticus
+Barcelona,Passer montanus
+Ourense,Delichon urbicum
+Lleida,Serinus serinus
+Len,Columba livia
+Murcia,Estrilda astrild
+Madrid,Chroicocephalus ridibundus
+Barcelona,Sturnus
+Barcelona,Corvus corax
+Segovia,Buteo buteo
+Valncia/Valencia,Anas platyrhynchos
+Girona,Upupa epops
+Zaragoza,Cygnus olor
+Alacant/Alicante,Delichon urbicum
+Valncia/Valencia,Streptopelia turtur
+Ciudad Real,Upupa epops
+Murcia,Merops apiaster
+A Corua,Columba livia
+Valncia/Valencia,Larus michahellis
+Girona,Apus apus
+Len,Buteo buteo
+Illes Balears,Passer domesticus
+Barcelona,Turdus philomelos
+Len,Columba palumbus
+Segovia,Saxicola rubicola
+Madrid,Passer domesticus
+Len,Carduelis carduelis
+Girona,Phalacrocorax carbo
+A Corua,Corvus corax
+Tarragona,Pica pica
+Tarragona,Phylloscopus collybita
+A Corua,Phylloscopus bonelli
+Zamora,Nycticorax nycticorax
+Alacant/Alicante,Cyanistes caeruleus
+Girona,Picus viridis
+Valncia/Valencia,Sturnus
+Ciudad Real,Hirundo rustica
+Alacant/Alicante,Ardea cinerea
+Murcia,Phalacrocorax carbo
+Santa Cruz de Tenerife,Sylvia atricapilla
+Murcia,Phylloscopus collybita
+Valncia/Valencia,Apus apus
+Valncia/Valencia,Luscinia megarhynchos
+Araba/lava,Corvus corone
+Zamora,Delichon urbicum
+Valncia/Valencia,Hirundo rustica
+Ciudad Real,Himantopus himantopus
+Lleida,Delichon urbicum
+Valncia/Valencia,Cettia cetti
+Barcelona,Larus michahellis
+Las Palmas,Serinus serinus
+A Corua,Passer montanus
+Asturias,Motacilla alba
+Girona,Sylvia atricapilla
+Zamora,Passer montanus
+Zaragoza,Anas platyrhynchos
+A Corua,Phylloscopus ibericus
+Barcelona,Anthus pratensis
+Ourense,Columba palumbus
+Ciudad Real,Serinus serinus
+Ciudad Real,Motacilla alba
+A Corua,Phalacrocorax carbo
+Lleida,Columba palumbus
+Zamora,Anas platyrhynchos
+Albacete,Actitis hypoleucos
+Valncia/Valencia,Motacilla alba
+Alacant/Alicante,Motacilla cinerea
+Zamora,Parus major
+Ciudad Real,Parus major
+Segovia,Pica pica
+Madrid,Motacilla alba
+Madrid,Carduelis carduelis
+Araba/lava,Turdus merula
+Girona,Cisticola juncidis
+Zamora,Phylloscopus collybita
+Valncia/Valencia,Phylloscopus collybita
+Len,Phalacrocorax carbo
+Palencia,Corvus corone
+Palencia,Periparus ater
+Lleida,Hirundo rustica
+Zamora,Serinus serinus
+Lleida,Anas platyrhynchos
+Girona,Corvus corax
+Barcelona,Phylloscopus collybita
+Zaragoza,Turdus merula
+Las Palmas,Netta rufina
+Palencia,Serinus serinus
+Valncia/Valencia,Pica pica
+Murcia,Anas clypeata
+Murcia,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Murcia,Burhinus oedicnemus
+Zamora,Phylloscopus ibericus
+Ourense,Passer domesticus
+Zamora,Certhia brachydactyla
+Albacete,Motacilla alba
+Girona,Columba livia
+Madrid,Anas platyrhynchos
+Ciudad Real,Streptopelia decaocto
+Ciudad Real,Actitis hypoleucos
+A Corua,Prunella modularis
+Len,Bubulcus ibis
+A Corua,Cyanistes caeruleus
+Valncia/Valencia,Falco tinnunculus
+Valncia/Valencia,Bubulcus ibis
+Zamora,Phoenicurus ochruros
+Valncia/Valencia,Cisticola juncidis
+Las Palmas,Actitis hypoleucos
+Ourense,Hirundo rustica
+Murcia,Sylvia melanocephala
+Zamora,Galerida cristata
+Las Palmas,Phylloscopus collybita
+Zamora,Pica pica
+Ciudad Real,Pernis apivorus
+A Corua,Falco tinnunculus
+Valncia/Valencia,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Len,Picus viridis
+Bizkaia,Erithacus rubecula
+Alacant/Alicante,Hirundo daurica
+Murcia,Carduelis carduelis
+Tarragona,Larus michahellis
+Asturias,Phalacrocorax carbo
+Girona,Anthus pratensis
+Lleida,Tachybaptus ruficollis
+Ourense,Chroicocephalus ridibundus
+Madrid,Serinus serinus
+Tarragona,Parus major
+Alacant/Alicante,Larus michahellis
+Ciudad Real,Motacilla cinerea
+Bizkaia,Turdus merula
+Palencia,Carduelis carduelis
+Murcia,Erithacus rubecula
+Las Palmas,Passer domesticus
+Ciudad Real,Chroicocephalus ridibundus
+Ciudad Real,Anthus campestris
+Zamora,Columba palumbus
+Tarragona,Columba livia
+Zamora,Streptopelia decaocto
+Ciudad Real,Charadrius dubius
+A Corua,Accipiter nisus
+Barcelona,Streptopelia turtur
+Alacant/Alicante,Chroicocephalus ridibundus
+Tarragona,Anas platyrhynchos
+Ciudad Real,Oxyura leucocephala
+Valncia/Valencia,Buteo buteo
+Valncia/Valencia,Passer montanus
+Murcia,Himantopus himantopus
+Len,Motacilla cinerea
+Madrid,Cyanistes caeruleus
+Asturias,Turdus merula
+A Corua,Streptopelia turtur
+Pontevedra,Upupa epops
+Barcelona,Cettia cetti
+Albacete,Himantopus himantopus
+Palencia,Milvus milvus
+Pontevedra,Pica pica
+Len,Sturnus
+Las Palmas,Calidris alba
+Girona,Petronia petronia
+Barcelona,Fulica atra
+Las Palmas,Cyanistes caeruleus
+Madrid,Delichon urbicum
+Albacete,Passer montanus
+Zaragoza,Erithacus rubecula
+Segovia,Galerida theklae
+Valncia/Valencia,Streptopelia decaocto
+Segovia,Serinus serinus
+Ourense,Phoenicurus ochruros
+Girona,Ptyonoprogne rupestris
+Barcelona,Tadorna tadorna
+Lleida,Passer domesticus
+Ciudad Real,Egretta garzetta
+Valncia/Valencia,Columba palumbus
+Ciudad Real,Carduelis carduelis
+Murcia,Tadorna tadorna
+Alacant/Alicante,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Madrid,Phoenicurus ochruros
+Araba/lava,Ardea cinerea
+Barcelona,Anas strepera
+Araba/lava,Erithacus rubecula
+Las Palmas,Hirundo rustica
+Zamora,Merops apiaster
+Barcelona,Falco tinnunculus
+Len,Phylloscopus ibericus
+A Corua,Larus michahellis
+Murcia,Cettia cetti
+Len,Alauda arvensis
+Madrid,Streptopelia decaocto
+Barcelona,Falco peregrinus
+Illes Balears,Erithacus rubecula
+Zamora,Lanius meridionalis
+Girona,Streptopelia decaocto
+Girona,Agapornis roseicollis
+Santa Cruz de Tenerife,Falco tinnunculus
+Las Palmas,Lanius meridionalis
+Valncia/Valencia,Gallinula chloropus
+Zaragoza,Hirundo rustica
+Zaragoza,Passer domesticus
+Girona,Troglodytes troglodytes
+Segovia,Phoenicurus ochruros
+Palencia,Erithacus rubecula
+Barcelona,Milvus milvus
+Barcelona,Egretta garzetta
+A Corua,Streptopelia decaocto
+Valncia/Valencia,Delichon urbicum
+Alacant/Alicante,Alectoris rufa
+Murcia,Hirundo rustica
+Madrid,Sturnus
+Barcelona,Phoenicurus ochruros
+Zamora,Ardea purpurea
+Girona,Regulus ignicapilla
+A Corua,Passer hispaniolensis
+Ciudad Real,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Girona,Luscinia megarhynchos
+Barcelona,Garrulus glandarius
+Zamora,Erithacus rubecula
+Girona,Motacilla flava
+Murcia,Luscinia megarhynchos
+Zamora,Carduelis carduelis
+Zamora,Picus viridis
+Lleida,Actitis hypoleucos
+Ciudad Real,Netta rufina
+Albacete,Parus major
+Madrid,Columba palumbus
+Pontevedra,Garrulus glandarius
+Araba/lava,Ciconia ciconia
+Madrid,Himantopus himantopus
+Girona,Falco peregrinus
+Valncia/Valencia,Serinus serinus
+Ciudad Real,Ardea cinerea
+Valncia/Valencia,Columba livia
+Albacete,Motacilla cinerea
+Ciudad Real,Columba livia
+Albacete,Phoenicurus ochruros
+Albacete,Anas platyrhynchos
+Segovia,Turdus merula
+Murcia,Sylvia atricapilla
+Girona,Tringa ochropus
+Ciudad Real,Aythya ferina
+Asturias,Pyrrhula pyrrhula
+Alacant/Alicante,Erithacus rubecula
+Albacete,Fringilla coelebs
+Alacant/Alicante,Alcedo atthis
+Barcelona,Sylvia atricapilla
+Barcelona,Cisticola juncidis
+Palencia,Cettia cetti
+Illes Balears,Upupa epops
+Len,Corvus corone
+Alacant/Alicante,Ptyonoprogne rupestris
+Ciudad Real,Phoenicurus ochruros
+Barcelona,Psittacula krameri
+Murcia,Apus apus
+Las Palmas,Myiopsitta monachus
+Girona,Coccothraustes coccothraustes
+Valncia/Valencia,Phoenicurus ochruros
+Ciudad Real,Luscinia svecica
+Las Palmas,Egretta garzetta
+Asturias,Erithacus rubecula
+Alacant/Alicante,Bubulcus ibis
+Ciudad Real,Gallinago gallinago
+Tarragona,Motacilla cinerea
+Murcia,Columba palumbus
+Barcelona,Picus viridis
+A Corua,Actitis hypoleucos
+Segovia,Upupa epops
+Girona,Accipiter gentilis
+Araba/lava,Troglodytes troglodytes
+Tarragona,Erithacus rubecula
+Ciudad Real,Alauda arvensis
+Zamora,Accipiter nisus
+Len,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Pontevedra,Larus michahellis
+Albacete,Picus viridis
+Alacant/Alicante,Cecropis daurica
+Murcia,Delichon urbicum
+Zamora,Apus apus
+Len,Phoenicurus ochruros
+Valncia/Valencia,Hirundo daurica
+Len,Saxicola rubicola
+Albacete,Carduelis carduelis
+Madrid,Sylvia melanocephala
+Murcia,Pica pica
+Ciudad Real,Tachybaptus ruficollis
+Len,Erithacus rubecula
+Tarragona,Chroicocephalus ridibundus
+A Corua,Pyrrhula pyrrhula
+Zamora,Corvus corone
+Valncia/Valencia,Lanius meridionalis
+Girona,Oriolus oriolus
+Girona,Milvus migrans
+Santa Cruz de Tenerife,Passer hispaniolensis
+Murcia,Tachybaptus ruficollis
+Tarragona,Upupa epops
+Segovia,Oenanthe oenanthe
+Ciudad Real,Circus aeruginosus
+Ciudad Real,Erithacus rubecula
+Illes Balears,Motacilla alba
+Girona,Certhia brachydactyla
+Ourense,Carduelis carduelis
+Palencia,Troglodytes troglodytes
+Girona,Ficedula hypoleuca
+Alacant/Alicante,Actitis hypoleucos
+Tarragona,Gallinula chloropus
+Len,Fringilla coelebs
+Segovia,Parus major
+Zamora,Bubulcus ibis
+Girona,Egretta garzetta
+Albacete,Hirundo rustica
+Zamora,Ixobrychus minutus
+Tarragona,Phoenicurus ochruros
+Len,Parus major
+Ciudad Real,Phylloscopus collybita
+Lleida,Falco tinnunculus
+Ciudad Real,Bubulcus ibis
+Bizkaia,Parus major
+Zaragoza,Columba livia
+Girona,Galerida cristata
+Zaragoza,Columba palumbus
+Murcia,Anas acuta
+Murcia,Accipiter nisus
+Pontevedra,Phoenicurus ochruros
+Lleida,Carduelis carduelis
+Lleida,Tringa ochropus
+Zaragoza,Gallinula chloropus
+Valncia/Valencia,Carduelis carduelis
+Valncia/Valencia,Sylvia atricapilla
+Zamora,Ardea cinerea
+Palencia,Corvus frugilegus
+Las Palmas,Gallinula chloropus
+Valncia/Valencia,Galerida cristata
+Lleida,Motacilla cinerea
+Girona,Accipiter nisus
+Valncia/Valencia,Motacilla cinerea
+Tarragona,Sylvia atricapilla
+Valncia/Valencia,Himantopus himantopus
+Tarragona,Cyanistes caeruleus
+Ourense,Sturnus
+Barcelona,Cyanistes caeruleus
+Las Palmas,Columba junoniae
+Ciudad Real,Alcedo atthis
+Alacant/Alicante,Galerida cristata
+Lleida,Pica pica
+Palencia,Actitis hypoleucos
+Araba/lava,Poecile palustris
+Valncia/Valencia,Merops apiaster
+Asturias,Phoenicurus ochruros
+Murcia,Streptopelia decaocto
+Murcia,Motacilla cinerea
+Valncia/Valencia,Nycticorax nycticorax
+Bizkaia,Corvus corone
+Palencia,Cuculus canorus
+Ciudad Real,Larus fuscus
+Valncia/Valencia,Myiopsitta monachus
+A Corua,Ficedula hypoleuca
+A Corua,Muscicapa striata
+Segovia,Fringilla coelebs
+Ciudad Real,Porphyrio porphyrio
+Valncia/Valencia,Upupa epops
+Bizkaia,Pica pica
+Albacete,Phalacrocorax carbo
+Tarragona,Phoenicopterus roseus
+A Corua,Strix aluco
+Asturias,Motacilla cinerea
+Ourense,Anas platyrhynchos
+Tarragona,Bubulcus ibis
+Barcelona,Monticola solitarius
+Zamora,Ficedula hypoleuca
+Murcia,Anas crecca
+Murcia,Galerida cristata
+Asturias,Ardea cinerea
+Tarragona,Actitis hypoleucos
+Murcia,Hirundo daurica
+Madrid,Milvus milvus
+Valncia/Valencia,Sylvia melanocephala
+Madrid,Turdus merula
+Zamora,Corvus corax
+Segovia,Milvus migrans
+Asturias,Chroicocephalus ridibundus
+Murcia,Saxicola rubicola
+Murcia,Corvus corone
+Barcelona,Passer hispaniolensis
+Lleida,Gyps fulvus
+Alacant/Alicante,Sylvia melanocephala
+Alacant/Alicante,Parus major
+Asturias,Garrulus glandarius
+Santa Cruz de Tenerife,Streptopelia decaocto
+Barcelona,Alcedo atthis
+Ciudad Real,Passer montanus
+Valncia/Valencia,Tringa ochropus
+Murcia,Fringilla coelebs
+Girona,Vanellus vanellus
+Murcia,Anthus pratensis
+Tarragona,Lophophanes cristatus
+Valncia/Valencia,Saxicola rubicola
+Murcia,Phoenicurus ochruros
+Ciudad Real,Anser anser
+Segovia,Lullula arborea
+Girona,Passer montanus
+Alacant/Alicante,Phylloscopus collybita
+Bizkaia,Ciconia ciconia
+Len,Circus pygargus
+Ciudad Real,Columba oenas
+Zaragoza,Chroicocephalus ridibundus
+Lleida,Fringilla coelebs
+Girona,Cettia cetti
+Tarragona,Passer montanus
+Len,Apus apus
+Zaragoza,Sturnus
+Len,Cyanistes caeruleus
+Zamora,Phalacrocorax carbo
+Zamora,Milvus migrans
+Murcia,Tringa ochropus
+Madrid,Egretta garzetta
+Ciudad Real,Garrulus glandarius
+Lleida,Motacilla alba
+Santa Cruz de Tenerife,Numenius phaeopus
+Tarragona,Ptyonoprogne rupestris
+Palencia,Motacilla cinerea
+Murcia,Gallinula chloropus
+Murcia,Falco tinnunculus
+Araba/lava,Garrulus glandarius
+Albacete,Columba livia
+Huelva,Larus michahellis
+Zaragoza,Motacilla alba
+Barcelona,Dendrocopos major
+Madrid,Upupa epops
+Valncia/Valencia,Fringilla coelebs
+Valncia/Valencia,Phylloscopus trochilus
+Murcia,Aythya ferina
+Murcia,Calidris ferruginea
+Segovia,Carduelis carduelis
+Illes Balears,Streptopelia turtur
+Huelva,Motacilla alba
+Valncia/Valencia,Egretta garzetta
+Lleida,Streptopelia decaocto
+Alacant/Alicante,Apus apus
+Girona,Merops apiaster
+A Corua,Upupa epops
+Araba/lava,Buteo buteo
+Lleida,Charadrius dubius
+Araba/lava,Pica pica
+Ciudad Real,Galerida cristata
+Zamora,Muscicapa striata
+Santa Cruz de Tenerife,Apus apus
+Albacete,Pica pica
+Segovia,Gyps fulvus
+Valncia/Valencia,Otus scops
+Ciudad Real,Anas clypeata
+Girona,Jynx torquilla
+Asturias,Phylloscopus collybita
+Asturias,Larus michahellis
+Huelva,Columba palumbus
+Murcia,Cecropis daurica
+Alacant/Alicante,Pyrrhocorax pyrrhocorax
+Lleida,Anthus pratensis
+Valncia/Valencia,Alcedo atthis
+Huelva,Passer domesticus
+Palencia,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Madrid,Turdus philomelos
+Len,Sturnus unicolor
+Bizkaia,Milvus migrans
+Pontevedra,Anas platyrhynchos
+Huelva,Pica pica
+A Corua,Accipiter gentilis
+Girona,Gallinula angulata
+Ciudad Real,Periparus ater
+Murcia,Larus michahellis
+Valncia/Valencia,Erithacus rubecula
+Zamora,Gallinula chloropus
+Albacete,Tringa ochropus
+Palencia,Upupa epops
+Santa Cruz de Tenerife,Larus michahellis
+Murcia,Buteo buteo
+Len,Phylloscopus collybita
+Madrid,Hirundo rustica
+Palencia,Cyanistes caeruleus
+Illes Balears,Charadrius alexandrinus
+Alacant/Alicante,Circus aeruginosus
+Murcia,Actitis hypoleucos
+Huelva,Chroicocephalus ridibundus
+Zamora,Aegithalos caudatus
+Madrid,Motacilla cinerea
+Len,Corvus corax
+Asturias,Pica pica
+Segovia,Erithacus rubecula
+Madrid,Phylloscopus collybita
+Alacant/Alicante,Corvus corone
+Araba/lava,Falco tinnunculus
+Ciudad Real,Ardea purpurea
+Madrid,Milvus migrans
+Lleida,Cyanistes caeruleus
+Girona,Myiopsitta monachus
+Murcia,Cyanistes caeruleus
+Tarragona,Merops apiaster
+Barcelona,Certhia brachydactyla
+Zamora,Motacilla cinerea
+Segovia,Apus apus
+Zamora,Oriolus oriolus
+Zamora,Petronia petronia
+Tarragona,Sylvia melanocephala
+Zamora,Buteo buteo
+Illes Balears,Cettia cetti
+Las Palmas,Petronia petronia
+Araba/lava,Cethia brachydactyla
+Lleida,Alauda arvensis
+Lleida,Apus apus
+Zamora,Upupa epops
+Alacant/Alicante,Phoenicurus ochruros
+Albacete,Dendrocopos major
+Barcelona,Accipiter nisus
+Asturias,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Barcelona,Gyps fulvus
+Girona,Circaetus gallicus
+Santa Cruz de Tenerife,Turdus merula
+Palencia,Phoenicurus ochruros
+Huelva,Falco tinnunculus
+Zamora,Chroicocephalus ridibundus
+Murcia,Oriolus oriolus
+Alacant/Alicante,Sturnus vulgaris
+Alacant/Alicante,Falco peregrinus
+Huelva,Turdus merula
+Asturias,Fringilla coelebs
+Segovia,Lanius meridionalis
+Murcia,Riparia riparia
+Araba/lava,Columba palumbus
+Albacete,Delichon urbicum
+Pontevedra,Motacilla alba
+Segovia,Ciconia ciconia
+Ciudad Real,Aythya nyroca
+Barcelona,Fringilla coelebs
+Murcia,Fulica atra
+Tarragona,Corvus corax
+Tarragona,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Zaragoza,Sylvia melanocephala
+Bizkaia,Garrulus glandarius
+Lleida,Himantopus himantopus
+Lleida,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Madrid,Aegypius monachus
+Asturias,Corvus corone
+Segovia,Corvus corone
+Santa Cruz de Tenerife,Columba livia
+Pontevedra,Pyrrhula pyrrhula
+Albacete,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Murcia,Picus viridis
+Ciudad Real,Fulica atra
+Len,Chroicocephalus ridibundus
+Murcia,Bubulcus ibis
+Asturias,Passer domesticus
+Alacant/Alicante,Gallinula chloropus
+Segovia,Milvus milvus
+Zamora,Luscinia megarhynchos
+Zamora,Saxicola rubicola
+Albacete,Alectoris rufa
+Madrid,Passer montanus
+Pontevedra,Sylvia atricapilla
+A Corua,Dendrocopos major
+Pontevedra,Passer domesticus
+Asturias,Serinus serinus
+Zamora,Acrocephalus scirpaceus
+Zamora,Streptopelia turtur
+Len,Streptopelia roseogrisea
+Ciudad Real,Anas crecca
+Alacant/Alicante,Cettia cetti
+Huelva,Phylloscopus collybita
+Araba/lava,Motacilla cinerea
+Ciudad Real,Podiceps nigricollis
+Huelva,Erithacus rubecula
+Segovia,Phylloscopus collybita
+Zamora,Lanius senator
+Ciudad Real,Tadorna tadorna
+Ciudad Real,Falco naumanni
+Segovia,Sturnus
+Tarragona,Egretta garzetta
+Ciudad Real,Recurvirostra avosetta
+Zamora,Turdus philomelos
+Barcelona,Alectoris rufa
+Palencia,Luscinia megarhynchos
+Albacete,Upupa epops
+Ciudad Real,Aythya fuligula
+Ciudad Real,Falco tinnunculus
+Albacete,Lanius senator
+Tarragona,Alectoris rufa
+Crdoba,Carduelis carduelis
+Zamora,Motacilla flava
+Barcelona,Coccothraustes coccothraustes
+Girona,Emberiza cia
+A Corua,Regulus regulus
+Albacete,Netta rufina
+Zaragoza,Turdus viscivorus
+Huelva,Actitis hypoleucos
+Zamora,Vanellus vanellus
+Len,Emberiza cirlus
+Pontevedra,Corvus corone
+Segovia,Saxicola rubetra
+Zamora,Tringa ochropus
+Illes Balears,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+A Corua,Lanius collurio
+Las Palmas,Corvus corax
+Barcelona,Neophron percnopterus
+Murcia,Myiopsitta monachus
+Lleida,Erithacus rubecula
+Huelva,Phoenicopterus roseus
+Illes Balears,Falco tinnunculus
+Tarragona,Garrulus glandarius
+Illes Balears,Milvus milvus
+Pontevedra,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Santa Cruz de Tenerife,Serinus serinus
+Bizkaia,Gyps fulvus
+Alacant/Alicante,Phylloscopus ibericus
+Murcia,Alcedo atthis
+Girona,Milvus milvus
+Girona,Pernis apivorus
+Las Palmas,Muscicapa striata
+Tarragona,Saxicola rubicola
+Alacant/Alicante,Apus pallidus
+Ciudad Real,Caprimulgus ruficollis
+Pontevedra,Erithacus rubecula
+Santa Cruz de Tenerife,Phylloscopus canariensis
+Murcia,Lanius meridionalis
+Tarragona,Ardea cinerea
+Tarragona,Myiopsitta monachus
+Valncia/Valencia,Ficedula hypoleuca
+Zaragoza,Egretta garzetta
+Huelva,Sturnus
+Las Palmas,Numenius phaeopus
+Illes Balears,Sturnus
+Palencia,Delichon urbicum
+Las Palmas,Arenaria interpres
+Barcelona,Aegithalos caudatus
+Murcia,Streptopelia turtur
+Ciudad Real,Phoenicopterus roseus
+Madrid,Ciconia ciconia
+Alacant/Alicante,Dendrocopos major
+Murcia,Anthus spinoletta
+Santa Cruz de Tenerife,Motacilla cinerea
+Araba/lava,Milvus migrans
+Ciudad Real,Gyps fulvus
+Ciudad Real,Ciconia ciconia
+Huelva,Motacilla cinerea
+Palencia,Chroicocephalus ridibundus
+Zamora,Cuculus canorus
+Lleida,Parus major
+Alacant/Alicante,Monticola solitarius
+Araba/lava,Motacilla alba
+A Corua,Ciconia ciconia
+Ciudad Real,Merops apiaster
+Valncia/Valencia,Oriolus oriolus
+Asturias,Sturnus
+Girona,Circus aeruginosus
+Murcia,Motacilla flava
+Murcia,Aegithalos caudatus
+Girona,Muscicapa striata
+Albacete,Luscinia megarhynchos
+Murcia,Nycticorax nycticorax
+Madrid,Columba livia
+Valncia/Valencia,Psittacula krameri
+Girona,Plegadis falcinellus
+Araba/lava,Fringilla coelebs
+Barcelona,Ptyonoprogne rupestris
+Bizkaia,Motacilla alba
+Palencia,Hippolais polyglotta
+Murcia,Charadrius dubius
+Len,Upupa epops
+Barcelona,Grus grus
+Palencia,Phylloscopus collybita
+Barcelona,Regulus ignicapilla
+Pontevedra,Turdus merula
+Araba/lava,Sturnus
+Asturias,Buteo buteo
+Asturias,Cyanistes caeruleus
+Zaragoza,Milvus migrans
+Illes Balears,Turdus merula
+Ciudad Real,Delichon urbicum
+Zaragoza,Ciconia ciconia
+Len,Anthus pratensis
+Illes Balears,Turdus philomelos
+Pontevedra,Columba palumbus
+Huelva,Carduelis carduelis
+Las Palmas,Bubulcus ibis
+Alacant/Alicante,Saxicola rubicola
+Illes Balears,Egretta garzetta
+Zamora,Dendrocopos major
+Madrid,Ardea cinerea
+Madrid,Merops apiaster
+Barcelona,Merops apiaster
+Albacete,Lullula arborea
+Len,Turdus philomelos
+Segovia,Streptopelia decaocto
+Murcia,Alectoris rufa
+Lleida,Sturnus
+Palencia,Gallinula chloropus
+Segovia,Coccothraustes coccothraustes
+Araba/lava,Milvus milvus
+Madrid,Galerida cristata
+Albacete,Galerida cristata
+Palencia,Certhia brachydactyla
+Segovia,Columba palumbus
+Pontevedra,Cettia cetti
+Pontevedra,Sturnus
+Ciudad Real,Philomachus pugnax
+Tarragona,Tringa ochropus
+Pontevedra,Streptopelia decaocto
+Zamora,Troglodytes troglodytes
+Asturias,Troglodytes troglodytes
+Girona,Anas crecca
+Pontevedra,Hippolais polyglotta
+Palencia,Falco peregrinus
+Ciudad Real,Lullula arborea
+Len,Egretta garzetta
+Alacant/Alicante,Fringilla coelebs
+Valncia/Valencia,Alectoris rufa
+Tarragona,Turdus philomelos
+Palencia,Oriolus oriolus
+Girona,Alauda arvensis
+Segovia,Motacilla alba
+Girona,Actitis hypoleucos
+Palencia,Regulus ignicapilla
+Valncia/Valencia,Athene noctua
+Barcelona,Charadrius dubius
+Madrid,Fringilla coelebs
+Tarragona,Streptopelia turtur
+Madrid,Circus aeruginosus
+Tarragona,Sturnus unicolor
+Huelva,Bubulcus ibis
+Barcelona,Periparus ater
+Murcia,Tringa glareola
+Zaragoza,Cyanistes caeruleus
+Valncia/Valencia,Anthus pratensis
+Illes Balears,Bubulcus ibis
+Asturias,Turdus philomelos
+Araba/lava,Neophron percnopterus
+Alacant/Alicante,Streptopelia turtur
+Albacete,Phylloscopus collybita
+Valncia/Valencia,Plegadis falcinellus
+Len,Cuculus canorus
+Madrid,Alectoris rufa
+Barcelona,Anas crecca
+Alacant/Alicante,Tringa ochropus
+Murcia,Apus pallidus
+Bizkaia,Periparus ater
+Girona,Cygnus olor
+Alacant/Alicante,Columba oenas
+Valncia/Valencia,Actitis hypoleucos
+Madrid,Ardea purpurea
+Santa Cruz de Tenerife,Gallinula chloropus
+Araba/lava,Passer domesticus
+Palencia,Riparia riparia
+Palencia,Phylloscopus ibericus
+Alacant/Alicante,Psittacula krameri
+Len,Falco peregrinus
+Ciudad Real,Emberiza citrinella
+Palencia,Ardea cinerea
+Girona,Alcedo atthis
+Araba/lava,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+A Corua,Sylvia communis
+Murcia,Egretta garzetta
+Alacant/Alicante,Sylvia atricapilla
+Zamora,Phylloscopus trochilus
+Araba/lava,Picus viridis
+Palencia,Sturnus
+Murcia,Sylvia cantillans
+Girona,Ciconia ciconia
+Alacant/Alicante,Ficedula hypoleuca
+Zamora,Podiceps cristatus
+Valncia/Valencia,Muscicapa striata
+Murcia,"0                           NaN
+1                           NaN
+2                           NaN
+3                           NaN
+4                           NaN
+                 ...           
+243    Phylloscopus sibillatrix
+244                         NaN
+245                         NaN
+246                         NaN
+247                         NaN
+Name: nombre, Length: 248, dtype: object"
+Girona,Gyps fulvus
+Zaragoza,Parus major
+Segovia,Pernis apivorus
+Las Palmas,Passer montanus
+A Corua,Anthus pratensis
+Palencia,Phalacrocorax carbo
+Illes Balears,Larus michahellis
+Segovia,Anthus pratensis
+Lleida,Tadorna tadorna
+Girona,Phoenicurus phoenicurus
+Araba/lava,Serinus serinus
+Asturias,Anas platyrhynchos
+Zamora,Emberiza cia
+Araba/lava,Sitta europaea
+Valncia/Valencia,Lanius senator
+Alacant/Alicante,Falco eleonorae
+Alacant/Alicante,Columba livia
+Ciudad Real,Anas penelope
+Barcelona,Galerida cristata
+Murcia,Luscinia svecica
+Illes Balears,Columba livia
+Alacant/Alicante,Lophophanes cristatus
+Alacant/Alicante,Asio flammeus
+Zaragoza,Ardea cinerea
+Segovia,Muscicapa striata
+Segovia,Falco subbuteo
+Bizkaia,Cyanistes caeruleus
+Albacete,Falco naumanni
+Barcelona,Cyanoliseus patagonus
+Zamora,Circus pygargus
+Barcelona,Phoenicurus phoenicurus
+Ciudad Real,Limosa limosa
+Ciudad Real,Sylvia atricapilla
+Santa Cruz de Tenerife,Ardea cinerea
+Girona,Fulica atra
+Palencia,Ciconia ciconia
+Barcelona,Athene noctua
+Santa Cruz de Tenerife,Serinus canaria
+A Corua,Tyto alba
+Murcia,Turdus philomelos
+Ciudad Real,Anthus pratensis
+Araba/lava,Gyps fulvus
+Alacant/Alicante,Merops apiaster
+Ourense,Motacilla cinerea
+Tarragona,Periparus ater
+Palencia,Fringilla coelebs
+Girona,Pyrrhula pyrrhula
+Tarragona,Phoenicurus phoenicurus
+Lleida,Buteo buteo
+Alacant/Alicante,Pernis apivorus
+Albacete,Ardea cinerea
+Illes Balears,Luscinia megarhynchos
+Ciudad Real,Luscinia megarhynchos
+Pontevedra,Gallinula chloropus
+A Corua,Sylvia melanocephala
+Santa Cruz de Tenerife,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Lleida,Cettia cetti
+Bizkaia,Cuculus canorus
+Palencia,Sturnus unicolor
+Zamora,Circaetus gallicus
+Murcia,Calidris minuta
+Valncia/Valencia,Accipiter nisus
+Santa Cruz de Tenerife,Cyanistes caeruleus
+Zaragoza,Falco tinnunculus
+Ciudad Real,Phalacrocorax carbo
+Zaragoza,Motacilla cinerea
+Segovia,Cyanistes caeruleus
+Zamora,Periparus ater
+Zaragoza,Larus michahellis
+Girona,Strix aluco
+Girona,Phoenicopterus roseus
+Alacant/Alicante,Periparus ater
+Segovia,Sylvia communis
+Palencia,Columba livia
+Tarragona,Falco tinnunculus
+Segovia,Certhia brachydactyla
+Illes Balears,Corvus corax
+Segovia,Passer domesticus
+Alacant/Alicante,Plegadis falcinellus
+Segovia,Alauda arvensis
+Ciudad Real,Alectoris rufa
+Madrid,Columba oenas
+Albacete,Pterocles alchata
+Girona,Cethia brachydactyla
+Girona,Estrilda astrild
+Alacant/Alicante,Oriolus oriolus
+Len,Acrocephalus schoenobaenus
+Murcia,Phylloscopus trochilus
+Albacete,Falco peregrinus
+Segovia,Emberiza cia
+Ciudad Real,Saxicola rubicola
+Albacete,Sylvia melanocephala
+Madrid,Falco naumanni
+Segovia,Phoenicurus phoenicurus
+Girona,Poecile palustris
+Tarragona,Cyanoliseus patagonus
+Zaragoza,Hippolais polyglotta
+Santa Cruz de Tenerife,Egretta garzetta
+Murcia,Circus aeruginosus
+Zamora,Gyps fulvus
+A Corua,Hippolais polyglotta
+Segovia,Aegypius monachus
+Asturias,Columba palumbus
+Segovia,Aquila adalberti
+Zamora,Jynx torquilla
+Girona,Oenanthe oenanthe
+Murcia,Caprimulgus ruficollis
+Segovia,Columba livia
+Barcelona,Troglodytes troglodytes
+Valncia/Valencia,Prunella modularis
+Zaragoza,Serinus serinus
+Ciudad Real,Ixobrychus minutus
+Murcia,Ptyonoprogne rupestris
+Ciudad Real,Buteo buteo
+Valncia/Valencia,Caprimulgus ruficollis
+Albacete,Vanellus vanellus
+Murcia,Ficedula hypoleuca
+Bizkaia,Milvus milvus
+Albacete,Aquila chrysaetos
+Barcelona,Cuculus canorus
+Segovia,Pyrrhocorax pyrrhocorax
+Palencia,Phylloscopus bonelli
+Palencia,Corvus corax
+Madrid,Passer hispaniolensis
+Crdoba,Passer domesticus
+Zamora,Coturnix coturnix
+Santa Cruz de Tenerife,Motacilla alba
+Murcia,Phylloscopus bonelli
+Barcelona,Coturnix coturnix
+Albacete,Aquila adalberti
+Palencia,Passer montanus
+A Corua,Cinclus cinclus
+Zamora,Lullula arborea
+Zaragoza,Carduelis carduelis
+Barcelona,Aquila chrysaetos
+Madrid,Apus apus
+Ourense,Upupa epops
+Girona,Turdus viscivorus
+Girona,Nymphicus hollandicus
+Zamora,Alcedo atthis
+Palencia,Sylvia atricapilla
+Pontevedra,Parus major
+Bizkaia,Anas platyrhynchos
+A Corua,Cettia cetti
+Palencia,Merops apiaster
+A Corua,Acrocephalus schoenobaenus
+Araba/lava,Upupa epops
+Valncia/Valencia,Circaetus gallicus
+Huelva,Ciconia ciconia
+Las Palmas,Buteo buteo
+Zamora,Accipiter gentilis
+Barcelona,Lophophanes cristatus
+Albacete,Clamator glandarius
+Huelva,Phoenicurus ochruros
+Ciudad Real,Apus apus
+Santa Cruz de Tenerife,Phylloscopus collybita
+Len,Gallinula chloropus
+Las Palmas,Falco pelegrinoides
+Murcia,Chlidonias hybrida
+Murcia,Aquila chrysaetos
+Araba/lava,Carduelis carduelis
+Bizkaia,Falco tinnunculus
+Segovia,Passer montanus
+Asturias,Parus major
+Zamora,Circus aeruginosus
+Segovia,Turdus philomelos
+Huelva,Platalea leucorodia
+Asturias,Sylvia atricapilla
+Ciudad Real,Charadrius alexandrinus
+Las Palmas,Chroicocephalus ridibundus
+Araba/lava,Falco naumanni
+Murcia,Pernis apivorus
+Asturias,Cettia cetti
+Albacete,Periparus ater
+Girona,Acrocephalus melanopogon
+Barcelona,Pernis apivorus
+Pontevedra,Periparus ater
+Albacete,Podiceps cristatus
+Crdoba,Parus major
+Illes Balears,Carduelis carduelis
+Barcelona,Sturnus unicolor
+Ciudad Real,Falco columbarius
+Huelva,Larus fuscus
+Asturias,Ptyonoprogne rupestris
+Alacant/Alicante,Tachybaptus ruficollis
+Zamora,Athene noctua
+Girona,Phylloscopus trochilus
+Barcelona,Himantopus himantopus
+Crdoba,Turdus merula
+Huelva,Anas platyrhynchos
+Las Palmas,Apus apus
+Segovia,Emberiza cirlus
+Len,Columba oenas
+Girona,Prunella modularis
+Bizkaia,Serinus serinus
+Barcelona,Plegadis falcinellus
+Zamora,Oenanthe oenanthe
+Zamora,Circus cyaneus
+Illes Balears,Ardea cinerea
+Albacete,Chroicocephalus ridibundus
+Len,Oenanthe oenanthe
+Illes Balears,Himantopus himantopus
+Huelva,Streptopelia decaocto
+Murcia,Emberiza cirlus
+Las Palmas,Charadrius hiaticula
+Araba/lava,Luscinia megarhynchos
+Tarragona,Sturnus vulgaris
+Len,Falco naumanni
+Barcelona,Calidris alpina
+Alacant/Alicante,Nycticorax nycticorax
+Valncia/Valencia,Luscinia svecica
+Girona,Hippolais polyglotta
+Girona,Otus scops
+Albacete,Falco tinnunculus
+Pontevedra,Apus apus
+Albacete,Merops apiaster
+Alacant/Alicante,Anthus pratensis
+Pontevedra,Egretta garzetta
+Valncia/Valencia,Cyanistes caeruleus
+Segovia,Tachybaptus ruficollis
+Alacant/Alicante,Phalacrocorax aristotelis
+Las Palmas,Larus fuscus
+Barcelona,Turdus viscivorus
+Asturias,Actitis hypoleucos
+Albacete,Larus michahellis
+Asturias,Apus apus
+A Corua,Milvus migrans
+Zamora,Actitis hypoleucos
+Illes Balears,Pica pica
+Pontevedra,Ardea cinerea
+Zaragoza,Phylloscopus collybita
+Alacant/Alicante,Turdus philomelos
+Barcelona,Hippolais polyglotta
+Girona,Sturnus vulgaris
+Santa Cruz de Tenerife,Streptopelia turtur
+Ciudad Real,Vanellus vanellus
+Palencia,Accipiter gentilis
+Segovia,Periparus ater
+Alacant/Alicante,Lanius meridionalis
+Palencia,Cethia brachydactyla
+Alacant/Alicante,Corvus corax
+Murcia,Plegadis falcinellus
+Madrid,Lullula arborea
+A Corua,Columba oenas
+Len,Galerida cristata
+Pontevedra,Buteo buteo
+Ciudad Real,Lanius senator
+Alacant/Alicante,Tyto alba
+Palencia,Milvus migrans
+Murcia,Gallinago gallinago
+Huelva,Hirundo rustica
+Pontevedra,Regulus ignicapilla
+Tarragona,Picus viridis
+Palencia,Aegithalos caudatus
+Valncia/Valencia,Charadrius dubius
+Lleida,Alcedo atthis
+Zamora,Acrocephalus arundinaceus
+Zamora,Egretta garzetta
+Alacant/Alicante,Athene noctua
+Murcia,Philomachus pugnax
+Santa Cruz de Tenerife,Apus unicolor
+Santa Cruz de Tenerife,Arenaria interpres
+Alacant/Alicante,Oenanthe leucura
+Zaragoza,Delichon urbicum
+Ciudad Real,Tringa nebularia
+Araba/lava,Phoenicurus ochruros
+Murcia,Podiceps cristatus
+Barcelona,Circaetus gallicus
+Palencia,Buteo buteo
+Huelva,Upupa epops
+Zamora,Larus fuscus
+Ciudad Real,Tringa totanus
+Zamora,Numenius arquata
+Pontevedra,Anthus campestris
+Tarragona,Emberiza cirlus
+Murcia,Acrocephalus scirpaceus
+Barcelona,Phoenicopterus roseus
+Murcia,Athene noctua
+Alacant/Alicante,Fulica atra
+Zamora,Anthus campestris
+Ciudad Real,Melanocorypha calandra
+Lleida,Phylloscopus collybita
+Barcelona,Alauda arvensis
+Albacete,Petronia petronia
+Tarragona,Circaetus gallicus
+Ciudad Real,Cyanopica cyanus
+Len,Sylvia atricapilla
+Asturias,Picus viridis
+Madrid,Lanius meridionalis
+Ciudad Real,Otus scops
+Segovia,Lanius senator
+Segovia,Luscinia megarhynchos
+Barcelona,Motacilla flava
+Valncia/Valencia,Phalacrocorax carbo
+Valncia/Valencia,Ciconia ciconia
+Len,Anthus trivialis
+Zaragoza,Upupa epops
+Barcelona,Milvus migrans
+Valncia/Valencia,Strix aluco
+Girona,Phasianus colchicus
+Ourense,Columba livia
+Albacete,Buteo buteo
+Girona,Streptopelia turtur
+Alacant/Alicante,Myiopsitta monachus
+A Corua,Falco subbuteo
+Barcelona,Estrilda troglodytes
+Len,Turdus viscivorus
+Asturias,Alcedo atthis
+Madrid,Bubo bubo
+Barcelona,Tachybaptus ruficollis
+Ciudad Real,Grus grus
+Ourense,Gallinula chloropus
+Santa Cruz de Tenerife,Sturnus
+Palencia,Turdus philomelos
+Girona,Cuculus canorus
+Santa Cruz de Tenerife,Sylvia conspicillata
+Palencia,Petronia petronia
+Palencia,Falco tinnunculus
+Ciudad Real,Motacilla flava
+Huelva,Himantopus himantopus
+Girona,Lullula arborea
+Alacant/Alicante,Alauda arvensis
+Zamora,Sylvia melanocephala
+Ourense,Apus apus
+Albacete,Circaetus gallicus
+Barcelona,Tyto alba
+Barcelona,Pyrrhula pyrrhula
+Alacant/Alicante,Passer hispaniolensis
+Pontevedra,Streptopelia turtur
+Girona,Alectoris rufa
+Asturias,Anthus pratensis
+Zaragoza,Alcedo atthis
+Ourense,"0      NaN
+1      NaN
+2      NaN
+3      NaN
+4      NaN
+      ... 
+243    NaN
+244    NaN
+245    NaN
+246    NaN
+247    NaN
+Name: nombre, Length: 248, dtype: object"
+Murcia,Netta rufina
+Pontevedra,Sylvia melanocephala
+Ciudad Real,Plegadis falcinellus
+Asturias,Aegithalos caudatus
+Alacant/Alicante,Aquila chrysaetos
+Las Palmas,Phalacrocorax carbo
+Zamora,Prunella modularis
+Zamora,Fringilla montifringilla
+Ciudad Real,Tringa glareola
+Alacant/Alicante,Picus viridis
+Zaragoza,Phoenicurus ochruros
+Zamora,Fulica atra
+Valncia/Valencia,Tyto alba
+Ciudad Real,Turdus viscivorus
+Murcia,Ciconia ciconia
+Barcelona,Sterna hirundo
+Ourense,Columba oenas
+Ciudad Real,Platalea leucorodia
+Lleida,Columba livia
+Palencia,Circus aeruginosus
+Girona,Carduelis citrinella
+Len,Merops apiaster
+A Corua,Egretta garzetta
+Barcelona,Apus pallidus
+Santa Cruz de Tenerife,Charadrius hiaticula
+Lleida,Merops apiaster
+Len,Passer montanus
+Girona,Charadrius dubius
+Lleida,Milvus milvus
+Ciudad Real,Fringilla coelebs
+Barcelona,Columba oenas
+Araba/lava,Streptopelia decaocto
+Madrid,Gyps fulvus
+A Corua,Aix galericulata
+Albacete,Saxicola rubicola
+Lleida,Upupa epops
+Araba/lava,Cuculus canorus
+Asturias,Regulus ignicapilla
+Albacete,Tachybaptus ruficollis
+Tarragona,Corvus corone
+Palencia,Anas strepera
+Murcia,Lanius senator
+Araba/lava,Hirundo rustica
+Ciudad Real,Burhinus oedicnemus
+Girona,Neophron percnopterus
+Valncia/Valencia,Cecropis daurica
+Segovia,Falco columbarius
+Palencia,Anthus pratensis
+Len,Otus scops
+Madrid,Falco tinnunculus
+Madrid,Aquila chrysaetos
+Las Palmas,Sylvia communis
+Araba/lava,Delichon urbicum
+Barcelona,Cinclus cinclus
+Valncia/Valencia,Falco peregrinus
+Albacete,Troglodytes troglodytes
+Segovia,Passer hispaniolensis
+Pontevedra,Hirundo rustica
+Murcia,Circus pygargus
+Illes Balears,Passer montanus
+Girona,Tyto alba
+Ciudad Real,Coturnix coturnix
+Ciudad Real,Turdus philomelos
+Zaragoza,Passer montanus
+Murcia,Tringa nebularia
+A Corua,Fulica atra
+Lleida,Turdus merula
+Lleida,Phoenicurus ochruros
+Segovia,Ficedula hypoleuca
+Huelva,Petronia petronia
+Ciudad Real,Panurus biarmicus
+Alacant/Alicante,Falco naumanni
+Segovia,Cethia brachydactyla
+Len,Anthus campestris
+Ciudad Real,Circus cyaneus
+Zamora,Gelochelidon nilotica
+Lleida,Tringa totanus
+Araba/lava,Anas platyrhynchos
+Alacant/Alicante,Phalacrocorax carbo
+Murcia,Falco peregrinus
+Santa Cruz de Tenerife,Anthus berthelotii
+A Corua,Cuculus canorus
+Albacete,Streptopelia turtur
+Illes Balears,Neophron percnopterus
+Murcia,Tringa totanus
+Huelva,Ardea cinerea
+Zaragoza,Gyps fulvus
+Illes Balears,Burhinus oedicnemus
+Tarragona,Himantopus himantopus
+Zamora,Saxicola rubetra
+A Corua,Cethia brachydactyla
+Zamora,Ptyonoprogne rupestris
+Murcia,Aythya nyroca
+Lleida,Oriolus oriolus
+Len,Ciconia nigra
+Len,Melanocorypha calandra
+Barcelona,Tringa ochropus
+Girona,Emberiza schoeniclus
+Asturias,Delichon urbicum
+Girona,Dryocopus martius
+Albacete,Lanius meridionalis
+Palencia,Motacilla flava
+Albacete,Coturnix coturnix
+Segovia,Himantopus himantopus
+Ciudad Real,Tringa ochropus
+Segovia,Coturnix coturnix
+Ciudad Real,Milvus migrans
+Barcelona,Saxicola rubicola
+Pontevedra,Actitis hypoleucos
+Santa Cruz de Tenerife,Chroicocephalus ridibundus
+Ciudad Real,Fulica cristata
+A Corua,Gallinula chloropus
+Madrid,Larus fuscus
+Albacete,Milvus migrans
+Girona,Sylvia borin
+Araba/lava,Chroicocephalus ridibundus
+Valncia/Valencia,Ardeola ralloides
+Lleida,Accipiter nisus
+Santa Cruz de Tenerife,Passer domesticus
+Zaragoza,Fringilla coelebs
+Valncia/Valencia,Turdus philomelos
+Murcia,Marmaronetta angustirostris
+Ciudad Real,Acrocephalus melanopogon
+Albacete,Egretta garzetta
+Araba/lava,Egretta garzetta
+Tarragona,Aquila fasciata
+Crdoba,Motacilla alba
+Albacete,Apus unicolor
+Girona,Lophophanes cristatus
+Segovia,Sylvia cantillans
+Zaragoza,Streptopelia decaocto
+Huelva,Sylvia melanocephala
+Zaragoza,Apus apus
+Tarragona,Corvus cornix
+Albacete,Erithacus rubecula
+Las Palmas,Fringilla coelebs
+Ciudad Real,Chlidonias niger
+Alacant/Alicante,Lanius senator
+Len,Streptopelia turtur
+Huelva,Phalacrocorax carbo
+Len,Gyps fulvus
+Murcia,Lymnocryptes minimus
+Madrid,Pluvialis squatarola
+Santa Cruz de Tenerife,Accipiter nisus
+Pontevedra,Phylloscopus collybita
+Murcia,Cuculus canorus
+Pontevedra,Chroicocephalus ridibundus
+Albacete,Turdus philomelos
+Ciudad Real,Chlidonias hybrida
+Madrid,Falco peregrinus
+Alacant/Alicante,Charadrius hiaticula
+Len,Regulus regulus
+Lleida,Bubulcus ibis
+Barcelona,Muscicapa striata
+Zaragoza,Tringa ochropus
+Len,Saxicola rubetra
+Girona,Coracias garrulus
+Tarragona,Acrocephalus scirpaceus
+Murcia,Aythya fuligula
+Albacete,Alauda arvensis
+Ciudad Real,Acrocephalus arundinaceus
+Las Palmas,Columba oenas
+Alacant/Alicante,Certhia brachydactyla
+Zamora,Rallus aquaticus
+Murcia,Anas strepera
+Lleida,Alectoris rufa
+Zamora,Anthus spinoletta
+A Corua,Estrilda astrild
+Zaragoza,Luscinia megarhynchos
+Illes Balears,Sylvia atricapilla
+Zaragoza,Periparus ater
+Albacete,Passer hispaniolensis
+Huelva,Tringa totanus
+Huelva,Serinus serinus
+Zaragoza,Remiz pendulinus
+Ciudad Real,Circus pygargus
+Albacete,Corvus corone
+Santa Cruz de Tenerife,Larus fuscus
+Madrid,Monticola solitarius
+Segovia,Regulus ignicapilla
+Zamora,Clamator glandarius
+Ciudad Real,Accipiter gentilis
+Valncia/Valencia,Ptyonoprogne rupestris
+Len,Emberiza schoeniclus
+Len,Sylvia undata
+Madrid,Phalacrocorax carbo
+Ciudad Real,Cuculus canorus
+Madrid,Gallinula chloropus
+Tarragona,Passer hispaniolensis
+Araba/lava,Bubulcus ibis
+Valncia/Valencia,Ardea purpurea
+Albacete,Garrulus glandarius
+Asturias,Phylloscopus ibericus
+Zamora,Phylloscopus bonelli
+Girona,Sylvia communis
+Valncia/Valencia,Hippolais polyglotta
+Pontevedra,Serinus serinus
+Madrid,Buteo buteo
+Albacete,Galerida theklae
+Lleida,Chroicocephalus ridibundus
+Len,Luscinia megarhynchos
+Ciudad Real,Cettia cetti
+Alacant/Alicante,Sterna hirundo
+Pontevedra,Motacilla cinerea
+Segovia,Circaetus gallicus
+Tarragona,Cisticola juncidis
+Palencia,Apus apus
+Len,Regulus ignicapilla
+Pontevedra,Fringilla coelebs
+Barcelona,Circus aeruginosus
+Girona,Himantopus himantopus
